@@ -6,10 +6,7 @@ This repository contains implementations of essential numerical algorithms used 
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Algorithms](#algorithms)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
