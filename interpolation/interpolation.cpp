@@ -2,7 +2,7 @@
 
 Interpolator::Interpolator(const vector<pair<double, double>>& points, const string& method):points(points), method(method){
     if(method == "newton"){
-        calculateNewtonCoefficients();
+        //calculateNewtonCoefficients();
     }
 }
 
@@ -11,7 +11,7 @@ double Interpolator::interpolate(double x){
         return lagrangeInterpolate(x);
     }
     else if(method == "newton"){
-        return newtonInterpolate(x);
+        //return newtonInterpolate(x);
     }
     else{
         throw invalid_argument("Unknow interpolation method");
