@@ -1,4 +1,4 @@
-# Numerical Algorithms
+# Numerical Algorithms 
 
 This repository contains implementations of essential numerical algorithms used in computational mathematics and engineering. Currently, it includes methods for solving **linear systems** and **interpolation**. These algorithms are commonly applied in fields such as data analysis, scientific computing, and engineering.
 
@@ -28,3 +28,6 @@ To use this repository, clone it to your local machine. Make sure you have a C++
 ```bash
 git clone https://github.com/alexandreyamassaka/numerical-algorithms.git
 cd numerical-algorithms
+
+
+teste
