@@ -30,4 +30,3 @@ git clone https://github.com/alexandreyamassaka/numerical-algorithms.git
 cd numerical-algorithms
 
 
-teste2
