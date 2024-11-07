@@ -10,7 +10,7 @@ int main(){
         {2.0, 1.8186}
     };
     Interpolator interpolacao(points, "lagrange");
-    interpolacao.interpolate(1.5);
+    cout<<interpolacao.interpolate(1.5);  
 
     return 0;
 }
